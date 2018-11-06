@@ -1,6 +1,7 @@
 #include <iostream>
 #include "TH1F.h"
 #include "TRandom3.h"
+#include "TCanvas.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
